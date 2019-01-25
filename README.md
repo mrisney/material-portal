@@ -1,4 +1,4 @@
-# React Material UI Portal template - Material Sense
+# React Material UI Portal template - ITIS Prototype
 A full simple portal application for react material ui
 
 ## Features
