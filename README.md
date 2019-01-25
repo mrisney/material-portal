@@ -1,5 +1,5 @@
-# React Material UI template - Material Sense
-A full simple application for react material ui
+# React Material UI Portal template - Material Sense
+A full simple portal application for react material ui
 
 ## Features
 - Responsive
@@ -60,10 +60,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 This project works in a docker container as well
 
 First run:
-`docker build . -t material-sense`
+`docker build . -t material-portal`
 
 Then:
-`docker run -p 2222:2222 material-sense`
+`docker run -p 2222:2222 material-portal`
 
 ### Publish at Github pages
 `yarn deploy`
